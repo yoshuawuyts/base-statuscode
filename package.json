@@ -1,6 +1,6 @@
 {
   "name": "base-statuscode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reduce a statuscode to its base.",
   "main": "index.js",
   "scripts": {
