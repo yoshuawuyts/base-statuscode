@@ -1,7 +1,7 @@
 {
   "name": "base-statuscode",
   "version": "0.1.0",
-  "description": "",
+  "description": "Reduce a statuscode to its base.",
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test ./node_modules/mocha/bin/mocha --recursive --harmony-generators -R spec",

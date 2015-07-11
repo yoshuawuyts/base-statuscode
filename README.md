@@ -3,6 +3,8 @@
 [![build status][travis-image]][travis-url] 
 [![Test coverage][coveralls-image]][coveralls-url]
 
+Reduce a statuscode to its base.
+
 ## Installation
 ```bash
 $ npm i --save base-statuscode
